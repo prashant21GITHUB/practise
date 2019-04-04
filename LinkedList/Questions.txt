@@ -1,0 +1,3 @@
+1 - Given a doubly circular linked list one node is not pointing to next,
+     how will find this and fix this. 
+     Same question - next pointer is pointing to some random pointer how will you find this and fix this. 
