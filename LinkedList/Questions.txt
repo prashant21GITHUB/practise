@@ -1,3 +1,5 @@
 1 - Given a doubly circular linked list one node is not pointing to next,
      how will find this and fix this. 
      Same question - next pointer is pointing to some random pointer how will you find this and fix this. 
+
+2 - A circle is inscribed in a square( coordinates top left corner (0,0) ). Coordinates of a point on the circle is given .            Calculate the area of circle
